@@ -1,5 +1,5 @@
 {
-  "name": "simple_landingpage",
+  "name": "simple-landing-page",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,13 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://jithinb68@bitbucket.org/jithinb68/simple_landingpage.git"
-  },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/jithinb68/simple_landingpage#readme",
+  "homepage": "https://github.com/ebenscript/simple-landing-page#readme",
   "devDependencies": {
     "autoprefixer": "^9.6.1",
     "browser-sync": "^2.26.7",
